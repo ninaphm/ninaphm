@@ -3,4 +3,4 @@
 - 🌱 I’m looking to collaborate on SQL, EXCEL, and DATA VISUALIZATION PROJECTS using POWERBI.
 - 💞️ In my free time, I enjoy reading, learning new things, traveling sometimes.
 - 🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis. Let's turn data into knowledge together!
-- 📫 Contact me by email: ptlduyen98@gmail.com.
+- 📫 For more information, please contact me via email: ptlduyen98@gmail.com
